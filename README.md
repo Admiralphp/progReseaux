@@ -1,5 +1,5 @@
 
-# TP : Configuration d'un Routeur Cisco avec Netmiko
+# Examen Pratique - Programmation Réseaux
 
 Ce projet est un script Python qui utilise la bibliothèque Netmiko pour se connecter à un routeur Cisco, exécuter des commandes pour récupérer des informations, configurer une interface loopback, et enregistrer des données dans un fichier.
 
