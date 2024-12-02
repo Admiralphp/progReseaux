@@ -18,7 +18,7 @@ def main():
         # Afficher la date côté routeur
         print("Récupération de la date...")
         show_clock = net_connect.send_command("show clock")
-        print("status:")
+        print("Date du routeur:")
         print(show_clock)
 
 
